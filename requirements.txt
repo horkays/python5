@@ -14,7 +14,7 @@ attrs==22.1.0
     # via
     #   aiohttp
     #   pytest
-black==22.6.0
+black==24.3.0
     # via -r requirements.in
 build==0.8.0
     # via pip-tools
