@@ -20,7 +20,7 @@ build==0.8.0
     # via pip-tools
 cachetools==4.2.0
     # via -r requirements.in
-certifi==2022.6.15
+certifi==2024.7.4
     # via requests
 charset-normalizer==2.1.1
     # via
